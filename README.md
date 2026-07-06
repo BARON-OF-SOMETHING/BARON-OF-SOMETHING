@@ -5,7 +5,7 @@
 <br>
 <p align="center"><a href="https://www.tumblr.com/cherryitaa/813014998461939712/baron-lisa?source=share"><i>Baron Lisa</i></p></a>
 <img width="28%" align="right" src="https://github.com/user-attachments/assets/8ce95a8e-a9b6-4cea-96a3-0433b42490bd" />
-<img width="67%" align="left" src="https://github.com/user-attachments/assets/cef98cb4-9195-4822-aac5-3aa5c25aa196" /><img width="29%" align="right" src="https://github.com/user-attachments/assets/c51fff66-9957-46d5-ac93-606de34fa7aa" />
+<img width="67%" align="left" src="https://github.com/user-attachments/assets/cef98cb4-9195-4822-aac5-3aa5c25aa196" /><img width="28%" align="right" src="https://github.com/user-attachments/assets/c51fff66-9957-46d5-ac93-606de34fa7aa" />
 <br>
   <br>
   <br>
